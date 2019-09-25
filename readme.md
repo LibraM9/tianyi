@@ -1,3 +1,7 @@
+## 比赛链接
+
+https://tianyicup.kesci.com/org/tianyicup/competition/area/5d297b9c8c21fb002bd0c0e0
+
 ## 数据集
 
 student.csv 学生信息
